@@ -1,0 +1,8 @@
+package ru.basharin.state;
+
+public class Coding implements Activity {
+    @Override
+    public void justDoIt() {
+        System.out.println("Write code");
+    }
+}
